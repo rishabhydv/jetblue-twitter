@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jetblue-257201",
+  "private_key_id": "ec9bdd1f0aa0917f32793befb1d6e650da5fef7e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDrtvSegjkRmUGB\nZAZOZnMGtjj4K0OSoW6WOKfeWxIRn2bCSQdcCJbfwnnDIj8Ty1FriLwUQqdOsAE8\nIlwGRbYDUP7zDU7ZbKA1LO72qngN1Z57Ze8PiNpu/Q5MOOK4d8FsxU2NNZp00mH6\ngXi6wxdIMIUVSIkfUvHI4pipDGnMJdt5a7IM+v9xj/x+WA7DNbOaEnNkuxnx4d0b\nsj63jBRXDoyNpaAkzxLnUfXEmUWA91wrzowHpGA/BZZb6kK26o8/x0XFtV4cwfpa\ngbgK2Bh3E3+pq3U3SIfdHT+FdXGoIn6rRByyqs+R94Vjvtr8OzvQISbW/UNtcoET\no/WJsvRvAgMBAAECggEAD/ZFvm4nGy/7pZ12Z9y8MVoppXSYkNdpu7Z+d6pHIPZg\naQu0+eCDBwgOYs5w4xBDpTqPMfgJiGSW0NGq1anm13amrSLbkhGvD6rJS97jXlx2\n7PhMJgsob5enXjYD9GX3rTv3MnbMzNhqViJqYItRikvu1zAgSQS+5tGhcOEsUOym\nGRCp0nJAEShKS/jcfqKj0xfRIkFQRmdq47ufpjzm+PI8OXYna1CcCdoOKCpTFsUE\nBZR0uN7SQIgf0JDUnP41wuK00zIlXYoqQcl+yA1NAVD1MxtnCWqZpj1b8MleYCta\nN+WSMSYxL5fF39CAeWEFnq7DclQYWlDzMM0E3ihIwQKBgQD1w/4eUrEeVl/r15oI\nD0WG8Xd9z2gzQiQJkKtLlvm48ax70c5cR1tVo7s1wrbF0Dmr194v5rnR3X5ipAL1\nck753dLNaKjOeX/9dYEHvs+Zt3hHYpx9W7pjiPZRhQDL8g52Ahfp/CQbTz7njccc\nElU/m34aIJW7vjbYooItrtbacQKBgQD1h9BlSTl3sdY5tPsk18CAULdTmn1TYPag\ntxFeT7mgoAkMtqClRAMQEjTNfhuIgrQRUUIFweFDFV0wN7F5AJvi2KQTbDi24XfC\nwI+YjrXyT5Y6slC4IK5iHfyUWl3aWGpr64VfNAYM4Abdxej2S/1Y3NH/Jsxv5SZX\n7hAIghNs3wKBgQCVIJtXHQg6h2DnA8mEcHfY3TaLkcoBqHWjlDRMxsy7C3KFI5cb\naXUjbxmPEprDR4lnG7LH0DIbBVLGWg0tkHIZrh9W4tXji9g9HQrxfzgLZ0fF0TFx\n47Ii6Z3Fc3Y7SqK5uqV2JrhmFdzutpoGD53I3fpTskgJRu+S3nEtdTUMEQKBgA3f\ngafnbkbUFo2mKzaWtjrJ1MH1jbVDWkwUa/fPO2bXBAvi2crcv+uNi8w8nuOktvXv\niHJ41PiMYXqS+wUiQqybnxG14LJ8pN6tMK/nCGLLmmpwntz4g8HpfdcIEBuBOWol\noaCSePELS3gGcbZQ7tyxhXAMSircYMFBI0jHyL8zAoGBAMXa/XdEz6v98yYUFL2Y\nzs9Sh9e9gq+jqXEYbebPSxOIPRGT8CWdwVbhcMsuv9Q69OpnsUirtf+LwooNHj5J\nyKgyXm3CRxeFgABkXLhntPlRqBP79fGkmOve0dqvhin4FGyeM8pCsJeL9xBdnbWh\nq0yRnvR6y36W578FH0bSinDo\n-----END PRIVATE KEY-----\n",
+  "client_email": "jetblue-twitter@jetblue-257201.iam.gserviceaccount.com",
+  "client_id": "112548069980998691320",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jetblue-twitter%40jetblue-257201.iam.gserviceaccount.com"
+}
